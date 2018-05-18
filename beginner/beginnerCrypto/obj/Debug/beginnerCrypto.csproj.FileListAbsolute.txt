@@ -1,0 +1,12 @@
+E:\Code VS\DemoCryptoAL\beginnerCrypto\bin\Debug\beginnerCrypto.exe.config
+E:\Code VS\DemoCryptoAL\beginnerCrypto\bin\Debug\beginnerCrypto.exe
+E:\Code VS\DemoCryptoAL\beginnerCrypto\bin\Debug\beginnerCrypto.pdb
+E:\Code VS\DemoCryptoAL\beginnerCrypto\obj\Debug\beginnerCrypto.csprojResolveAssemblyReference.cache
+E:\Code VS\DemoCryptoAL\beginnerCrypto\obj\Debug\beginnerCrypto.Properties.Resources.resources
+E:\Code VS\DemoCryptoAL\beginnerCrypto\obj\Debug\beginnerCrypto.csproj.GenerateResource.Cache
+E:\Code VS\DemoCryptoAL\beginnerCrypto\obj\Debug\beginnerCrypto.exe
+E:\Code VS\DemoCryptoAL\beginnerCrypto\obj\Debug\beginnerCrypto.pdb
+E:\Code VS\DemoCryptoAL\beginnerCrypto\obj\Debug\beginnerCrypto.Beginner.resources
+E:\Code-VS\DemoCryptoAL\beginnerCrypto\bin\Debug\beginnerCrypto.exe.config
+E:\Code-VS\DemoCryptoAL\beginnerCrypto\obj\Debug\beginnerCrypto.exe
+E:\Code-VS\DemoCryptoAL\beginnerCrypto\obj\Debug\beginnerCrypto.pdb
