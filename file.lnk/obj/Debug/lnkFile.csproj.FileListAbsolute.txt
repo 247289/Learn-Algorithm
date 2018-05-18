@@ -1,0 +1,16 @@
+E:\Code VS\readfilelnk\lnkFile\bin\Debug\lnkFile.exe.config
+E:\Code VS\readfilelnk\lnkFile\bin\Debug\lnkFile.exe
+E:\Code VS\readfilelnk\lnkFile\bin\Debug\lnkFile.pdb
+E:\Code VS\readfilelnk\lnkFile\obj\Debug\lnkFile.csprojResolveAssemblyReference.cache
+E:\Code VS\readfilelnk\lnkFile\obj\Debug\lnkFile.Properties.Resources.resources
+E:\Code VS\readfilelnk\lnkFile\obj\Debug\lnkFile.csproj.GenerateResource.Cache
+E:\Code VS\readfilelnk\lnkFile\obj\Debug\lnkFile.exe
+E:\Code VS\readfilelnk\lnkFile\obj\Debug\lnkFile.pdb
+E:\Code VS\readfilelnk\lnkFile\obj\Debug\Interop.IWshRuntimeLibrary.dll
+E:\Code VS\readfilelnk\lnkFile\obj\Debug\Interop.Shell32.dll
+E:\Code VS\readfilelnk\lnkFile\obj\Debug\lnkFile.csproj.ResolveComReference.cache
+E:\Code VS\readfilelnk\lnkFile\obj\Debug\lnkFile.listShortcut.resources
+E:\Code VS\readfilelnk\lnkFile\obj\Debug\lnkFile.ShortcutInfo.resources
+E:\Code VS\readfilelnk\lnkFile\obj\Debug\lnkFile.DirTree.Form1.resources
+E:\Code VS\readfilelnk\lnkFile\obj\Debug\lnkFile.TreeView.treeView.resources
+E:\Code VS\readfilelnk\lnkFile\obj\Debug\lnkFile.CLASS.AESFile.resources
